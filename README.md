@@ -12,8 +12,6 @@ A simple and efficient web-based **Currency Converter** application. This tool a
 
 > <img width="514" height="546" alt="image" src="https://github.com/user-attachments/assets/162a02fa-4e96-4f0e-af15-57a79f40dda6" />
 
-<img width="483" height="529" alt="image" src="https://github.com/user-attachments/assets/c0f82c1d-609a-4a87-a652-a2c32b78fb9b" />
-
 ---
 
 ## 🚀 Features
