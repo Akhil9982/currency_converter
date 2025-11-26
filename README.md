@@ -10,6 +10,8 @@ A simple and efficient web-based **Currency Converter** application. This tool a
 
 ## 🌟 Live Demo
 
+> https://akhil9982.github.io/currency_converter/
+
 > <img width="514" height="546" alt="image" src="https://github.com/user-attachments/assets/162a02fa-4e96-4f0e-af15-57a79f40dda6" />
 
 ---
@@ -88,9 +90,11 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 📜 License
+
 Distributed under the GPL-3.0 License. See LICENSE for more information.
 
 👤 Author
+
 Akhil9982
 
 GitHub: @Akhil9982
